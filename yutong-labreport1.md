@@ -2,7 +2,7 @@
 
 Download and install the app, Visual Studio Code from this website [Link]([http://a.com](https://code.visualstudio.com/)). I skipped this process because I alreday had it installed.
 It should be like this (example of mac):
-![Image](Screenshot1)
+![Image](sc1)
 
 
 **2. Remotely Connecting**
